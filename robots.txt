@@ -2,5 +2,5 @@ User-Agent: *
 Allow: /
 Disallow: /admin
 
-Host: https://meenaispeaks6-droid.github.io/meenai-preview
-Sitemap: https://meenaispeaks6-droid.github.io/meenai-preview/sitemap.xml
+Host: https://meenai.in
+Sitemap: https://meenai.in/sitemap.xml
